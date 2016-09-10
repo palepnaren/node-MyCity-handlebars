@@ -1,0 +1,29 @@
+{
+  "name": "mycity-handlebars",
+  "version": "1.0.0",
+  "description": "shows pics of different cities",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "city"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palepnaren/node-MyCity-handlebars.git"
+  },
+  "keywords": [
+    "handlebars",
+    "express",
+    "city"
+  ],
+  "author": "Naren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palepnaren/node-MyCity-handlebars/issues"
+  },
+  "homepage": "https://github.com/palepnaren/node-MyCity-handlebars#readme"
+}
